@@ -20,7 +20,7 @@
  *   out of or in connection with the Software or the use or other dealings in the
  *   Software.
  */
-
+#include "stdafx.h"
 #include <climits>
 #include <cstring>
 #include <stdexcept>
